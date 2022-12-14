@@ -1,0 +1,39 @@
+{
+  "files": {
+    "app.js": "/static/js/app.d8d2039e.chunk.js",
+    "app.js.map": "/static/js/app.d8d2039e.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.bf889404.chunk.js": "/static/js/2.bf889404.chunk.js",
+    "static/js/2.bf889404.chunk.js.map": "/static/js/2.bf889404.chunk.js.map",
+    "fonts/Montserrat-Bold.ttf": "/./fonts/Montserrat-Bold.ttf",
+    "fonts/Montserrat-Light.ttf": "/./fonts/Montserrat-Light.ttf",
+    "fonts/Montserrat-Medium.ttf": "/./fonts/Montserrat-Medium.ttf",
+    "fonts/Montserrat-Regular.ttf": "/./fonts/Montserrat-Regular.ttf",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.bf889404.chunk.js.LICENSE.txt": "/static/js/2.bf889404.chunk.js.LICENSE.txt",
+    "static/media/binggo-logo.png": "/static/media/binggo-logo.06ce7a57.png",
+    "static/media/contact.png": "/static/media/contact.7717f1c6.png",
+    "static/media/fb.png": "/static/media/fb.96ed9e51.png",
+    "static/media/github.png": "/static/media/github.8ac69735.png",
+    "static/media/mail.png": "/static/media/mail.eb298aec.png",
+    "static/media/practice-math.png": "/static/media/practice-math.6a5c83b6.png",
+    "static/media/sample-videos.png": "/static/media/sample-videos.5a1a129e.png",
+    "static/media/short-info.png": "/static/media/short-info.35981baf.png",
+    "static/media/skills.png": "/static/media/skills.e997a7ee.png",
+    "static/media/telegram.png": "/static/media/telegram.98f312b0.png",
+    "static/media/telephone-body.png": "/static/media/telephone-body.60d30be8.png",
+    "static/media/telephone.png": "/static/media/telephone.ebc03e1c.png",
+    "static/media/tikkyinu-logo.png": "/static/media/tikkyinu-logo.d1060445.png",
+    "static/media/tikkyinu-staking.png": "/static/media/tikkyinu-staking.b27a3b48.png",
+    "static/media/twittyinu-logo.png": "/static/media/twittyinu-logo.12313f04.png",
+    "static/media/vector-arts.png": "/static/media/vector-arts.e6eeabd4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.bf889404.chunk.js",
+    "static/js/app.d8d2039e.chunk.js"
+  ]
+}
